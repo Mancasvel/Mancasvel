@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Product Management, Next.js, CNNs...**
 
-- 👨‍💻 All of my projects are available at [https://me.ksty.xyz](https://me.ksty.xyz)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ksty.framer.website)
 
 - 💬 Ask me about **Agile Methodologies, teamwork, self hosted enviroments...**
 
