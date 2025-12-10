@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Castillejo</h1>
-<h3 align="center">CTO & Software Engineer</h3>
+<h3 align="center">CEO of FlowSight</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancasvel" alt="mancasvel" /></a> </p>
 
