@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancasvel" alt="mancasvel" /></a> </p>
 
-- 🔭 I’m currently working on [Flowsight]([https://github.com/Mancasvel/Unsent](https://github.com/Mancasvel/FlowSight.AI))
+- 🔭 I’m currently working on [Flowsight](https://github.com/Mancasvel/Unsent](https://github.com/Mancasvel/FlowSight.AI)
 
 - 🌱 I’m currently learning **Product Management, Next.js, CNNs...**
 
